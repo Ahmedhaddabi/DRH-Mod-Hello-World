@@ -1,7 +1,7 @@
 {
   "id": "helloworld",
   "name": "Hello World",
-  "description": "What the mod does, in one line.",
+  "description": "My first mod: logs floors and monsters to the console.",
   "version": "0.1.0",
   "author": "Ahmedhaddabi",
   "api": "1.5",
